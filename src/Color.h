@@ -1,6 +1,10 @@
 /*
  * Header file for Color 
+<<<<<<< HEAD
  * Copyright (C) 2013 Lu Wang <coolwanglu@gmail.com> test 111
+=======
+ * Copyright (C) 2013 Lu Wang <coolwanglu@gmail.com> test 2222222
+>>>>>>> test2
  */
 
 #ifndef COLOR_H__
