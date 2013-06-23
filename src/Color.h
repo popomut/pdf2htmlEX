@@ -1,6 +1,6 @@
 /*
  * Header file for Color 
- * Copyright (C) 2013 Lu Wang <coolwanglu@gmail.com>
+ * Copyright (C) 2013 Lu Wang <coolwanglu@gmail.com> test
  */
 
 #ifndef COLOR_H__
